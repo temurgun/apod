@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APOD</string>
+    <string name="astronomy_picture_of_the_day">Астрономическое изображение дня</string>
+    <string name="search">Поиск</string>
+    <string name="search_in_title">Искать по названию</string>
+    <string name="next">Дальше</string>
+</resources>

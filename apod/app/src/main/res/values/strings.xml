@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APOD</string>
+    <string name="astronomy_picture_of_the_day">Astronomy Picture of the Day</string>
+    <string name="search">Search</string>
+    <string name="search_in_title">search in title</string>
+    <string name="next">next</string>
+</resources>
